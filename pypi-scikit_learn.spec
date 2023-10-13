@@ -5,7 +5,7 @@
 #
 Name     : pypi-scikit_learn
 Version  : 1.2.0
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/27/a0/95eae31ceabeb7710a694367816edfcc0ccb001c794c14b3b234c148ae50/scikit-learn-1.2.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/27/a0/95eae31ceabeb7710a694367816edfcc0ccb001c794c14b3b234c148ae50/scikit-learn-1.2.0.tar.gz
 Summary  : A set of python modules for machine learning and data mining
